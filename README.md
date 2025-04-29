@@ -17,4 +17,4 @@ Links:
 - 🕷️ [NotABug.org](https://notabug.org/arimatakao)
 - ⛰️ [Codeberg.org](https://codeberg.org/arimatakao)
 - 🐈‍⬛ [GitHub.com](https://github.com/arimatakao)
-- ㊙️ <a href="https://www.codewars.com/users/glatbonde">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)</a>
+- ㊙️ [Codewars.com](https://www.codewars.com/users/glatbonde)
